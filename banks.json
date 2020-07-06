@@ -1,0 +1,20 @@
+{
+  "banks": {
+    "fcmb": "brandmanagement@fcmb.com",
+    "uba_benin": "cfcbenin@ubagroup.com",
+    "stanbic_zim": "zwincubator@stanbic.com",
+    "heritage": "info@hbng.com",
+    "sterling": "http://vendors.sterlingbankng.com/proposals",
+    "unity": "we_care@unitybankng.com",
+    "access_gh": "contactcentregh@ghana.accessbankplc.com",
+    "gtb_kenya": "communicationke@gtbank.com",
+    "keystone": "contactcentre@keystonebankng.com",
+    "polaris": "yescenter@polarisbanklimited.com",
+    "ecobank": "engcontactcentre@ecobank.com",
+    "access_rw": "rwandacontactcenter@accessbankplc.com",
+    "titan": "contactcentre@titantrustbank.com",
+    "stanbic": "customercarenigeria@stanbicbtc.com",
+    "gtbank": "gh.corporateaffairs@gtbank.com",
+    "royal": "https://personal.rbs.co.uk/personal/support-centre/feedback-form.html"
+  }
+}
