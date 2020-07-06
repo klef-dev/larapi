@@ -12,4 +12,6 @@ This is a simple laravel API example including API versioning
 6. Run the table migrations `php artisan migrate`
 7. Seed the database `php artisan db:seed`
 
-Now you should have the same project I ended the series with.
+### Things to add
+1. Authentication with JWT
+2. People finder search.
